@@ -22,34 +22,25 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-  <img align="center" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-  <img align="right" src="https://cdn.discordapp.com/attachments/279937195757010944/947671457247395860/dance-happy.gif"/>
+  <img align="center" heigh="10" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+  <img align="center" heigh="10" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+  <img align="right" align="center" heigh="100" width="150" src="https://cdn.discordapp.com/attachments/279937195757010944/947671457247395860/dance-happy.gif"/>
   
 </div>
   
 ##
   
 <div>
-  <a href="https://instagram.com/cristian._nascimento" target="_blank"><img src="https://img.icons8.com/ios/100/000000/instagram-new--v1.png"/></a>
-  <a href="https://facebook.com/cristian.nascimento.7503" target="_blank"><img src="https://img.icons8.com/ios/100/000000/facebook--v1.png"/></a>
-  <a herf="https://www.linkedin.com/in/cristian-nascimento-b40658232/" target="_blank"><img src="https://img.icons8.com/ios/100/000000/linkedin.png"/></a>
-  <a herf="mailto:cristianrosanascimento@gmail.com"><img src="https://img.icons8.com/ios/106/000000/gmail--v2.png"/></a>
-</div>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- 
-<!-- Menções 
-<a href="https://icons8.com/icon/53889/instagram">Instagram icon by Icons8</a>
-<a href="https://icons8.com/icon/118498/facebook-novo">Facebook Novo icon by Icons8</a>
+  <a href="https://instagram.com/cristian._nascimento" target="_blank"><img align="center" heigh="10" width="40" src="https://img.icons8.com/ios/100/000000/instagram-new--v1.png"/></a>
+  <a href="https://facebook.com/cristian.nascimento.7503" target="_blank"><img align="center" heigh="10" width="40" src="https://img.icons8.com/ios/100/000000/facebook--v1.png"/></a>
+  <a herf="https://www.linkedin.com/in/cristian-nascimento-b40658232/" target="_blank"><img align="center" heigh="10" width="40" src="https://img.icons8.com/ios/100/000000/linkedin.png"/></a>
+  <a herf="mailto:cristianrosanascimento@gmail.com"><img align="center" heigh="10" width="40" src="https://img.icons8.com/ios/106/000000/gmail--v2.png"/></a>
 
--->
+   ![Snake animation](https://github.com/Cristian-Nascimento/Cristian-Nascimento/blob/output/github-contribution-grid-snake.svg)
+   
+</div>
+   
+<div align="center">
+   <p>Créditos: <a herf="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+</div>
+
