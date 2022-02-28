@@ -6,6 +6,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Nascimento&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
+  <!-- Tecnologias Aprendidas-->
+  
 <div style="display: inline_block"><br>
   <img align="center" heigh="10" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
   <img align="center" heigh="10" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
@@ -14,6 +16,8 @@
 </div>
   
 ##
+  
+  <!-- Entre em contato comigo em-->
   
 <div>
   <a href="https://instagram.com/cristian._nascimento/" target="_blank"><img align="center" heigh="10" width="40" src="https://img.icons8.com/ios/100/000000/instagram-new--v1.png"/></a>
