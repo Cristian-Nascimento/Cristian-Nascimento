@@ -17,14 +17,14 @@
 
 <div align="center">
   <a href="https://github.com/Cristian-Nascimento">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cristian-Nascimento&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Nascimento&layout=compact&langs_count=7&theme=merko"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Cristian-Nascimento&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Nascimento&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 <div style="display: inline_block"><br>
   <img align="center" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
   <img align="center" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-  <img align="right" heigh="30" width="40" src="https://cdn.discordapp.com/attachments/279937195757010944/947668599793938452/6dv350mz79xy.mp4"/>
+  <img align="right" src="https://cdn.discordapp.com/attachments/279937195757010944/947671457247395860/dance-happy.gif"/>
   
 </div>
   
