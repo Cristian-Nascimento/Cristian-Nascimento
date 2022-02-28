@@ -16,7 +16,7 @@
 ##
   
 <div>
-  <a href="https://instagram.com/cristian._nascimento" target="_blank"><img align="center" heigh="10" width="40" src="https://img.icons8.com/ios/100/000000/instagram-new--v1.png"/></a>
+  <a href="https://instagram.com/cristian._nascimento/" target="_blank"><img align="center" heigh="10" width="40" src="https://img.icons8.com/ios/100/000000/instagram-new--v1.png"/></a>
   <a href="https://facebook.com/cristian.nascimento.7503" target="_blank"><img align="center" heigh="10" width="40" src="https://img.icons8.com/ios/100/000000/facebook--v1.png"/></a>
   <a herf="https://www.linkedin.com/in/cristian-nascimento-b40658232/" target="_blank"><img align="center" heigh="10" width="40" src="https://img.icons8.com/ios/100/000000/linkedin.png"/></a>
   <a herf="mailto:cristianrosanascimento@gmail.com"><img align="center" heigh="10" width="40" src="https://img.icons8.com/ios/106/000000/gmail--v2.png"/></a>
