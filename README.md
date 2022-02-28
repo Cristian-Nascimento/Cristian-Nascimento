@@ -31,6 +31,12 @@
    ![Snake animation](https://github.com/Cristian-Nascimento/Cristian-Nascimento/blob/output/github-contribution-grid-snake.svg)
    
 </div>
+  
+<!-- Contador de Visitas-->
+  
+<p align="center">
+    Número de visitas: <br> <img style="margin: 10px 0;" src="https://profile-counter.glitch.me/Cristian-Nascimento/count.svg" alt="contador de visitas">
+</p>
    
 ##
   
