@@ -5,16 +5,6 @@
 
 ## Me chamo Cristian, Sou um estudande de ***Sistemas de Informação*** 👽 👾
 
-<ul>
-
-  <li>💰 Atualmente eu estou trabalhando como Ajudante de encanador numa Usina Hidroelétrica!
-  <li>❤️ Sou Apaixonado pelo ato de Aprender!
-  <li>🕮 Hoje estou me aprofundando em HTML5 E CSS3
-  <li>💲 Futuro Poliglota
-</ul>
- 
-##
-
 <div align="center">
   <a href="https://github.com/Cristian-Nascimento">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cristian-Nascimento&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
