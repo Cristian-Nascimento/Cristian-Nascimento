@@ -38,7 +38,7 @@ Me chamo Cristian, Sou um estudande de Sistemas de Informação 👽 👾
   
 </div>
 
-<!--  ![Snake animation](https://github.com/Cristian-Nascimento/Cristian-Nascimento/blob/output/github-contribution-grid-snake.svg) -->
+  ![Snake animation](https://github.com/Cristian-Nascimento/Cristian-Nascimento/blob/output/github-contribution-grid-snake.svg)
   
 <!-- Contador de Visitas-->
   
